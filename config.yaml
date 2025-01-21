@@ -1,0 +1,11 @@
+app:
+  host: "127.0.0.1"
+  port: 80
+
+database:
+  username: "test"
+  password: "testpassword"
+  name: "testdb"
+
+jwt:
+  secret: "fdad;fjadgad;lj a;= a;gar;gaergaergagraergabba"
